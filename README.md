@@ -25,7 +25,9 @@ jalankan aplikasi:
 
 ---
 
-!["aplikasi pada browser"](ss_appjs.png)
+
+![Aplikasi pada Browser](ss_appjs.png)
+
 
 ---
 
