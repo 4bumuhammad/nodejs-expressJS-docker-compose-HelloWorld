@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  expressjs-app:
+    container_name: nodejs-app-helloworld
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: expressjs-app-helloworld 
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/app
+    environment:
+      - NODE_ENV=develop
+    stdin_open: true
+    tty: true
+    restart: unless-stopped    
