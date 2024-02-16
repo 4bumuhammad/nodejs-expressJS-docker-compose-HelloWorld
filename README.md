@@ -23,8 +23,9 @@ jalankan aplikasi:
     op:
         Server berjalan di http://localhost:3000
 
+--
 
-
+![run](ss_appjs.png)
 
 ---
 
