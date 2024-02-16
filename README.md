@@ -26,7 +26,10 @@ jalankan aplikasi:
 ---
 
 
-![Aplikasi pada Browser](ss_appjs.png)
+<p align="center">
+    <img src="./ss_appjs.png" alt="Aplikasi pada Browser" style="display: block; margin: 0 auto;">
+</p>
+<p align="center">Aplikasi pada Browser</p>
 
 
 ---
