@@ -4,21 +4,21 @@
 
 buat direktori project
 
-    > mkdir nodejs-expressJS-docker-compose-HelloWorld
+    ❯ mkdir nodejs-expressJS-docker-compose-HelloWorld
 
 
 instalasi expressjs:
 
-    > npm install express
+    ❯ npm install express
 
 
 buat file json secara manual dan isinya.
 
-    - app.js
+    ❯ app.js
 
 jalankan aplikasi:
 
-    > node app.js
+    ❯ node app.js
 
     op:
         Server berjalan di http://localhost:3000
@@ -102,7 +102,7 @@ buat file berikut dan isinya :
 
 jalankan docker compose:
 
-    > docker-compose up --build -d
+    ❯ docker-compose up --build -d
 
 
 
